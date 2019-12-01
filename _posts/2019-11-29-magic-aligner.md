@@ -3,7 +3,7 @@ layout: post
 title: Can optical alignment be automated?
 ---
 
-Surprisingly, I believe that the answer is yes for many cases. And I created [a Sketch plugin][plugin-repo] to do so.
+Surprisingly, I believe that the answer is yes for many cases. And I have created [a Sketch plugin][plugin-repo] to do so.
 
 [plugin-repo]: https://github.com/HugoLis/magic-aligner/
 
