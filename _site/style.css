@@ -328,8 +328,9 @@ nav a {
 }
 
 footer {
-  padding: 20px 0;
+  padding: 20px 0px 5px 0px;
   text-align: center;
+  font-size: 14px;
 }
 
 .highlight {

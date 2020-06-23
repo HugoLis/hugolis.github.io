@@ -26,7 +26,7 @@ At the [Apple Developer Academy][academy], I had the opportunity to improve codi
 
 
 <span style="color:rgb(34,34,34)">**Universidade Federal de Pernambuco**</span>  <br />
-<span style="color:rgb(34,34,34)">*Bachelor of Computer Engineering*, *expected to graduate in Dec 2020*</span>
+<span style="color:rgb(34,34,34)">*Bachelor of Computer Engineering, expected to graduate in 2022*</span>
 
 <!--[<img
 src="{{ site.baseurl }}/images/about/ufpe-cin.png"
