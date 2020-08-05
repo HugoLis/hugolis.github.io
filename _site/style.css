@@ -169,16 +169,6 @@ img {
   color: #666;
 }
 
-::-moz-selection {
-  color: #000;
-  background: #eee;
-}
-
-::selection {
-  color: #000;
-  background: #eee;
-}
-
 .clearfix:before,
 .clearfix:after {
   content: " ";
