@@ -23,6 +23,21 @@ style="padding: 0px">][aster]
 [aster]: https://apps.apple.com/app/aster/id1385736929
 
 <br />
+
+### El Trackpad
+
+App that transforms your iPhone or iPad into a full-featured Mac Trackpad. [Check it out][el-trackpad-link].
+
+[<img
+src="{{ site.baseurl }}/images/apps/el-trackpad.png"
+alt="Aster icon"
+height="128"
+style="padding: 0px">][el-trackpad-link]
+
+[el-trackpad-link]: {{ site.baseurl }}/el-trackpad
+
+<br />
+
 ### Splool
 
 Infinite running game in which the player rides floats through dangerous water slides.
