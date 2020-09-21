@@ -26,7 +26,7 @@ style="padding: 0px">][aster]
 
 ### El Trackpad
 
-App that transforms your iPhone or iPad into a full-featured Mac Trackpad. [Check it out][el-trackpad-link].
+App that transforms your iPhone or iPad into a full-featured Mac trackpad with gestures support. [Check it out][el-trackpad-link].
 
 [<img
 src="{{ site.baseurl }}/images/apps/el-trackpad.png"
