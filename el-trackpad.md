@@ -34,14 +34,6 @@ Requires iOS 10.0 or newer.
 
 <br/>
 
-## About
-
-Hi, I am Hugo, an undergraduate student from Brazil and I am proud to make El Trackpad totally free. If you enjoyed the app, please consider giving me a small tip on the iOS/iPadOS app to support my work. Also, [App Store reviews][reviewLink] are very much appreciated.
-
-[reviewLink]:https://itunes.apple.com/app/id1385736929?action=write-review
-
-<br/>
-
 ## Troubleshooting
 
 #### App status is connected, but the Mac cursor is not moving
