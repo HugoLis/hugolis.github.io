@@ -40,11 +40,18 @@ Requires iOS 10.0 or newer.
 
 You probbably did not enable accessibility features for El Trackpad. Go to System Preferences > Security & Privacy > Accessibility, then click on the locker on the bottom left of the window and enable El Trackpad's checkbox.
 
+#### Mac shows an error when trying to open the .dmg installer
+
+Right-click on the file, then click "open". If it still gives an error, try other options from [link 1] and [link 2].
+
+[link 1]: https://discussions.apple.com/thread/250425993
+[link 2]: https://support.apple.com/en-us/HT202491
+
 #### Devices are attached via USB cable, but app status is disconnected
 
 Try quiting both apps and relaunching them. If the problem persists, you may try with a different cable and/or a different port on the Mac.
 
-#### Gestures not working or triggering iOS/iPadOS system gestures.
+#### Gestures not working or triggering iOS/iPadOS system gestures
 
 To use 4 and 5 fingers trackpad gestures on the iPad, disable system multitasking gestures on Settings > Home Screen and Dock > Multitasking > Gestures. Gestures may not be recognized by El Trackpad if they are already being used by the system for other purpose. For example, you may have disable system zoom in order to use El Trackpad's three fingers gestures.
 

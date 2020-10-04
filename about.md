@@ -86,5 +86,5 @@ Links to [story 1][story1] and [story 2][story2].
 <br />
 ## Contact
 
-**Email:** [hl@cin.ufpe.br](mailto:hl@cin.ufpe.br) <br />
+**Email:** [hugolispector@gmail.com](mailto:hugolispector@gmail.com) <br />
 **Social Networks:** on the website footer
