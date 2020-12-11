@@ -53,7 +53,7 @@ Try quiting both apps and relaunching them. If the problem persists, you may try
 
 #### Gestures not working or triggering iOS/iPadOS system gestures
 
-To use 4 and 5 fingers trackpad gestures on the iPad, disable system multitasking gestures on Settings > Home Screen and Dock > Multitasking > Gestures. Gestures may not be recognized by El Trackpad if they are already being used by the system for other purpose. For example, you may have disable system zoom in order to use El Trackpad's three fingers gestures.
+To use 4 and 5 fingers trackpad gestures on the iPad, disable system multitasking gestures on Settings > Home Screen and Dock > Multitasking > Gestures. Gestures may not be recognized by El Trackpad if they are already being used by the system for other purpose. For example, you may have to disable system zoom in order to use El Trackpad's three fingers gestures.
 
 #### How to make El Trackpad launch on Mac startup
 
