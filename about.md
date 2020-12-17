@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Hugo Lispector, and I am an iOS developer, game designer, photographer and Computer Engineering student in Recife, Brazil. I am deeply passionate about technology, design, and creating products that improve people's lives.
+Hi, my name is Hugo Lispector. I am an app developer, game designer, photographer and Computer Engineering student from Recife, Brazil. I am deeply passionate about technology and design, as well as creating products that improve people's lives.
 
 <br />
 ## Education
@@ -44,7 +44,7 @@ As an undergraduate of Computer Engineering at [Universidade Federal de Pernambu
 <span style="color:rgb(34,34,34)">**iOS Developer**</span>  <br />
 <span style="color:rgb(34,34,34)">*Jan 2018 - Present*</span>
 
-I have created over half a dozen apps and games for education, accessibility, wellness and fun. Check out [my apps](/apps) and make sure to stay tunned for the next ones.
+I have created many apps and games for education, accessibility, wellness and fun. Check out [my apps](/apps) and make sure to stay tunned for the next ones.
 
 <span style="color:rgb(34,34,34)">**Summer Intern**</span>  <br />
 <span style="color:rgb(34,34,34)">*CESAR - Instituto de Inovação — Recife, Brazil, Jan - Feb 2019*</span>
@@ -56,7 +56,7 @@ During the summer job program at [CESAR][cesar], I developed a cognitive stimula
 <span style="color:rgb(34,34,34)">**Photographer**</span>  <br />
 <span style="color:rgb(34,34,34)">*Holocaust Museum — Haifa, Israel, Jun - Jul 2016*</span>
 
-Throughout the time I volunteered at [Yad Ezer La'Haver][yad-ezer], I was able to photograph dozens of holocaust survivors and learn their stories. Currently the photographs I took are part of the permanent exhibition of the museum.
+Throughout the time I volunteered at [Yad Ezer La'Haver][yad-ezer], I was able to photograph dozens of holocaust survivors and document their stories. Currently, the photographs I took are part of the permanent exhibition of the museum.
 
 [yad-ezer]: https://yadezer.org.il/?lang=en
 
@@ -74,17 +74,23 @@ To be selected to attend [ Apple Worldwide Developers Conference][wwdc], I creat
 
 [wwdc]: https://developer.apple.com/wwdc/
 
-<span style="color:rgb(34,34,34)">**Featured on the App Store**</span>  <br />
-<span style="color:rgb(34,34,34)">*Highlighted twice on the App Store with the game [Aster][aster]*</span>
+<span style="color:rgb(34,34,34)">**Featured on the App Store and Tech Websites**</span>  <br />
+<span style="color:rgb(34,34,34)">*Had the game [Aster][aster] and the app [El Trackpad][eltrackpad] highlited many times*</span> 
 
-Links to [story 1][story1] and [story 2][story2].
+[Aster][aster]: featured twice on the App Store — [story 1][story1] and [story 2][story2]. <br/>
+[El Trackpad][eltrackpad]: featured on [9to5Mac][9to5mac], [Redmond Pie][redmondpie], [MacMagazine][macmagazine] and more.
 
 [aster]: https://apps.apple.com/us/app/aster/id1385736929?l=en
 [story1]: https://apps.apple.com/us/story/id1468317935
 [story2]: https://apps.apple.com/us/story/id1463610907
+[eltrackpad]: https://apps.apple.com/us/app/el-trackpad/id1531822775
+[9to5mac]: https://9to5mac.com/2020/10/02/el-trackpad-is-a-new-app-that-turns-your-iphone-or-ipad-into-a-real-mac-trackpad-with-gestures/
+[redmondpie]: https://www.redmondpie.com/how-to-turn-iphone-or-ipad-into-a-trackpad-for-mac-with-full-gestures-support/
+[macmagazine]: https://macmagazine.com.br/post/2020/10/05/app-transforma-o-seu-iphone-ipad-num-trackpad-completo-para-o-mac/
 
 <br />
 ## Contact
+Feel free to get in touch!
 
 **Email:** [hugolispector@gmail.com](mailto:hugolispector@gmail.com) <br />
 **Social Networks:** on the website footer

@@ -16,13 +16,13 @@ style="padding: 0px">
 
 [DownloadLinkMac]: https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad.dmg
 
-Requires macOS 10.13 (High Sierra) or newer.
+Requires macOS 10.13 (High Sierra) or later.
 
 
 
 ## [Download for iPhone or iPad][DownloadLinkIOS]
 [DownloadLinkIOS]: https://apps.apple.com/us/app/id1531822775
-Requires iOS 10.0 or newer.
+Requires iOS 10.0 or later.
 
 <br/>
 
