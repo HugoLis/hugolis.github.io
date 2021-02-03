@@ -1,13 +1,13 @@
-I"(<p>Transform your iPhone or iPad into a full-featured Mac trackpad with gestures support.</p>
+I"�<p>Transform your iPhone or iPad into a full-featured Mac trackpad with gestures support.</p>
 
 <p><img src="/images/apps/el-trackpad.png" alt="Aster icon" height="128" style="padding: 0px" /></p>
 
 <h2 id="download-for-mac"><a href="https://raw.githubusercontent.com/HugoLis/el-trackpad-files/master/El%20Trackpad.dmg">Download for Mac</a></h2>
 
-<p>Requires macOS 10.13 (High Sierra) or newer.</p>
+<p>Requires macOS 10.13 (High Sierra) or later.</p>
 
 <h2 id="download-for-iphone-or-ipad"><a href="https://apps.apple.com/us/app/id1531822775">Download for iPhone or iPad</a></h2>
-<p>Requires iOS 10.0 or newer.</p>
+<p>Requires iOS 10.0 or later.</p>
 
 <p><br /></p>
 
@@ -29,7 +29,7 @@
 
 <h4 id="mac-shows-an-error-when-trying-to-open-the-dmg-installer">Mac shows an error when trying to open the .dmg installer</h4>
 
-<p>Right-click on the file, then click “open”. If it still gives an error, try other options from <a href="https://discussions.apple.com/thread/250425993">link 1</a> and <a href="https://support.apple.com/en-us/HT202491">link 2</a>.</p>
+<p>Right-click on the file, then click “open”. If it still gives an error, try other options from <a href="https://discussions.apple.com/thread/250425993">Apple Community</a> and <a href="https://support.apple.com/en-us/HT202491">Apple Support</a>.</p>
 
 <h4 id="devices-are-attached-via-usb-cable-but-app-status-is-disconnected">Devices are attached via USB cable, but app status is disconnected</h4>
 
@@ -41,7 +41,7 @@
 
 <h4 id="how-to-make-el-trackpad-launch-on-mac-startup">How to make El Trackpad launch on Mac startup</h4>
 
-<p>Go to System Preferences &gt; Users &amp; Groups &gt; Login Items, then click on the “+” and select El Trackpad.</p>
+<p>Go to System Preferences &gt; Users &amp; Groups &gt; Login Items, then click on “+” and select El Trackpad.</p>
 
 <p><br /></p>
 
@@ -49,7 +49,7 @@
 
 <p>El Trackpad takes your privacy very seriously. It does not gather personally identifiable information and it does not transmit your information anywhere.</p>
 
-<p>El Trackpad may collect aggregated and anonymized statistics, such as the percentage of users who use particular features, to improve the app. If El Trackpad, or substantially all of its assets were acquired, or if the app goes out of business or enters bankruptcy, this policy and its effects may change or be amended.</p>
+<p>If El Trackpad, or substantially all of its assets were acquired, or if the app goes out of business or enters bankruptcy, this policy and its effects may change or be amended.</p>
 
 <p>Altough changes are likely to be minor, El Trackpad reserves the right to change its privacy policy from time to time in El Trackpad’s sole discretion. Your continued use of the app after any change in this privacy policy will constitute your acceptance of such change. By using El Trackpad, you consent to this privacy policy.</p>
 :ET

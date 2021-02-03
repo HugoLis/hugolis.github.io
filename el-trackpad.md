@@ -42,10 +42,10 @@ You probbably did not enable accessibility features for El Trackpad. Go to Syste
 
 #### Mac shows an error when trying to open the .dmg installer
 
-Right-click on the file, then click "open". If it still gives an error, try other options from [link 1] and [link 2].
+Right-click on the file, then click "open". If it still gives an error, try other options from [Apple Community] and [Apple Support].
 
-[link 1]: https://discussions.apple.com/thread/250425993
-[link 2]: https://support.apple.com/en-us/HT202491
+[Apple Community]: https://discussions.apple.com/thread/250425993
+[Apple Support]: https://support.apple.com/en-us/HT202491
 
 #### Devices are attached via USB cable, but app status is disconnected
 
@@ -57,7 +57,7 @@ To use 4 and 5 fingers trackpad gestures on the iPad, disable system multitaskin
 
 #### How to make El Trackpad launch on Mac startup
 
-Go to System Preferences > Users & Groups > Login Items, then click on the "+" and select El Trackpad.
+Go to System Preferences > Users & Groups > Login Items, then click on "+" and select El Trackpad.
 
 <br/>
 
@@ -65,6 +65,6 @@ Go to System Preferences > Users & Groups > Login Items, then click on the "+" a
 
 El Trackpad takes your privacy very seriously. It does not gather personally identifiable information and it does not transmit your information anywhere.
 
-El Trackpad may collect aggregated and anonymized statistics, such as the percentage of users who use particular features, to improve the app. If El Trackpad, or substantially all of its assets were acquired, or if the app goes out of business or enters bankruptcy, this policy and its effects may change or be amended.
+If El Trackpad, or substantially all of its assets were acquired, or if the app goes out of business or enters bankruptcy, this policy and its effects may change or be amended.
 
 Altough changes are likely to be minor, El Trackpad reserves the right to change its privacy policy from time to time in El Trackpad's sole discretion. Your continued use of the app after any change in this privacy policy will constitute your acceptance of such change. By using El Trackpad, you consent to this privacy policy.

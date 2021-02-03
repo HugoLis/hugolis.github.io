@@ -7,14 +7,13 @@ permalink: /apps/
 Check out my apps and games on the App Store and stay tunned for next releases.
 
 <br />
-
 ### El Trackpad
 
 App that transforms your iPhone or iPad into a full-featured Mac trackpad with gestures support. El Trackpad was featured on [9to5Mac][9to5mac], [Redmond Pie][redmondpie], [MacMagazine][macmagazine] and more.
 
 [<img
 src="{{ site.baseurl }}/images/apps/el-trackpad.png"
-alt="Aster icon"
+alt="El Trackpad icon"
 height="128"
 style="padding: 0px">][eltrackpad]
 
@@ -26,6 +25,21 @@ style="padding: 0px">][eltrackpad]
 [macmagazine]: https://macmagazine.com.br/post/2020/10/05/app-transforma-o-seu-iphone-ipad-num-trackpad-completo-para-o-mac/
 
 <br />
+### Controlly
+
+Use a game controller as a rich-featured remote control for Mac.
+
+[<img
+src="{{ site.baseurl }}/images/apps/controlly.png"
+alt="Controlly icon"
+height="128"
+style="padding: 0px">][Controlly]
+
+[Download Controlly][Controlly]
+
+[Controlly]: {{ site.baseurl }}/controlly
+<br />
+
 ### Aster
 
 Space simulation game that challenges the player to use the gravity of planets to travel. Aster was featured twice on the App Store: [story 1][story1] and [story 2][story2].
