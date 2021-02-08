@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hugo Lispector – Apps and Games Creator</title>
+    <title>Announcing Controlly – Hugo Lispector – Apps and Games Creator</title>
 
         <meta charset="utf-8" />
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -9,11 +9,18 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     
-    <meta name="description" content="Apps and Games Creator">
-    <meta property="og:description" content="Apps and Games Creator" />
+    <meta name="description" content="
+
+" />
+    <meta property="og:description" content="
+
+" />
     
     <meta name="author" content="Hugo Lispector" />
 
+    
+    <meta property="og:title" content="Announcing Controlly" />
+    <meta property="twitter:title" content="Announcing Controlly" />
     
 
     <!--[if lt IE 9]>
@@ -49,21 +56,17 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <div class="posts">
-  
-    <article class="post">
+      <article class="post">
+  <h1>Announcing Controlly</h1>
 
-        
-      <h1><a href="/announcing-controlly/">Announcing Controlly</a></h1>
-      
-      <div class="date">
-          February  8, 2021
-      </div>
-      
-      <h1></h1>
-      
-      <div class="entry">
-          <p><a href="https://apps.apple.com/app/controlly/id1548544614"><img src="/images/posts/controlly/controlly-banner.png" alt="" /></a></p>
+  <div class="date">
+    February  8, 2021
+  </div>
+  
+  <h1></h1>
+
+  <div class="entry">
+    <p><a href="https://apps.apple.com/app/controlly/id1548544614"><img src="/images/posts/controlly/controlly-banner.png" alt="" /></a></p>
 
 <p>Recently, I started to keep a game controller next to my computer for the rare occasions I want to play a game. But, sometimes, when watching a video or reading a document, I caught myself picking the controller to press its buttons for some distraction. During one of those moments, I realized I wanted to use the game controller as a remote control for the Mac in order to control playback, volume, scrolling and more. Today, I am happy to launch my latest app: <a href="https://apps.apple.com/app/controlly/id1548544614">Controlly</a>.</p>
 
@@ -81,63 +84,10 @@ As someone who suffers from computer-related RSI, I am very interested in altern
 
 <p>After a few weeks of development and a lot of help from friends who tested the app and gave me invaluable feedback, I am pleased to announce that <a href="https://apps.apple.com/app/controlly/id1548544614">Controlly</a> is now available on the Mac App Store. I hope it can be as useful to others as it is to me.</p>
 
-      </div>
-
-      <!--<a href="/announcing-controlly/" class="read-more">Read More</a>-->
-    </article>
+  </div>
   
-    <article class="post">
-
-        
-      <h1><a href="/magic-aligner/">Can optical alignment be automated?</a></h1>
-      
-      <div class="date">
-          November 29, 2019
-      </div>
-      
-      <h1></h1>
-      
-      <div class="entry">
-          <p>Surprisingly, I believe that the answer is yes for many cases. And I have created <a href="https://github.com/HugoLis/magic-aligner/">a Sketch plugin</a> to do so.</p>
-
-<p>Optical alignment is a crucial concept in the design of graphic elements. Its basic idea is that objects should not be arranged using our logical intuition. Instead, they should be aligned in the most perceptually balanced and pleasing way.</p>
-
-<p>One great example of that is found in the task of centering a semicircle inside a rectangle. It seems obvious to center the shape using the middle of its bounding box, but it simply does not work in this case.</p>
-
-<p><img src="/images/posts/alignment/semicircle-box.png" alt="" /></p>
-
-<p>Because the visual weight of the semicircle is mostly on its left side, we should visually adjust it a little bit to the right to make it look centered and balanced.</p>
-
-<p><img src="/images/posts/alignment/semicircle-centroid.png" alt="" /></p>
-
-<p>I asked myself how big exactly should be that little adjustement to the right. Turns out that a lot of times when we want to align objects based on their visual weight, what we actually want is to arrange them according to their centers of mass. So I created a Sketch plugin that does that, and that is how I centered this semicircle.</p>
-
-<p>Another case in which this center of mass (also called centroid) idea can be applied is in the centering of this North/Central America map in a frame. Placing the center of the map’s bounding box on the center of the frame seems really uneven.</p>
-
-<p><img src="/images/posts/alignment/america-box.png" alt="" /></p>
-
-<p>Because the bounding box does not take in consideration the visual weight of the image, light weighted elements like small islands on the map have a big impact on the box size. For this reason, the final placement looks off-center.</p>
-
-<p>Unlike the bounding box method, the centroid approach gives little importance to light weighted elements. So, aligning the map using the center of mass results in a surprisingly good looking placement.</p>
-
-<p><img src="/images/posts/alignment/america-centroid.png" alt="" /></p>
-
-<p>Even though in the examples above the centroid method gives a great result, that is not always the case. The visual adjustment process can be hard and subjective, with many variables that influence how we perceive things as balanced, aligned or simply good looking.</p>
-
-<p>For example, if we try to center a circular arrow inside a circle. It becomes clear that both the bounding box (left) and the centroid (center) approaches are not good solutions. To achieve the best result we should align the arrow as it were its core shape, which is a circle in this case (right).</p>
-
-<p><img src="/images/posts/alignment/arrow.png" alt="" /></p>
-
-<p>Although the center of mass alignment is not always the best option, many times it is. Furthermore, even in cases in which there are no clear solutions right away, this method can provide great insight and serve as a base for further adjustments.</p>
-
-<p>That is why I created <a href="https://github.com/HugoLis/magic-aligner/">Magic Aligner</a>, a free and open source Sketch plugin that can automatically adjust objects using their centers of mass. Make sure to try it out and test it with different shapes. Chances are, this tool can be as useful to you as it is to me.</p>
-
-      </div>
-
-      <!--<a href="/magic-aligner/" class="read-more">Read More</a>-->
-    </article>
   
-</div>
+</article>
 
     </div>
 
@@ -172,8 +122,8 @@ As someone who suffers from computer-related RSI, I am very interested in altern
 
 		ga('create', 'UA-153532184-1', 'auto');
 		ga('send', 'pageview', {
-		  'page': '/',
-		  'title': ''
+		  'page': '/announcing-controlly/',
+		  'title': 'Announcing Controlly'
 		});
 	</script>
 	<!-- End Google Analytics -->
