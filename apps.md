@@ -142,7 +142,7 @@ style="padding: 0px">][zip-zap]
 
 Sketch plugin that align objects by their centers of mass. Magic Aligner automates optical adjustments in many cases. Check out the [blog post][alignment-post] I wrote about it.
 
-[alignment-post]: {{ site.baseurl }}/Magic-Aligner
+[alignment-post]: {{ site.baseurl }}/magic-aligner
 
 [<img
 src="{{ site.baseurl }}/images/apps/magic-aligner.png"
