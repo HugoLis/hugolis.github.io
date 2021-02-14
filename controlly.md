@@ -28,7 +28,7 @@ Requires macOS 11 (Big Sur) or later.
 
 If the controller was not previously connected to Mac, you will need to put your controller into pairing mode. Then, you will be able to select it on System Preferences > Bluetooth.
 
-Instructions for puting a controller into pairing mode vary for each model, but they can be easily found online. Here are a few helpful links for [Playstation], [Xbox] and [Apple Support].
+Instructions for puting a controller into pairing mode vary for each model, but they can be easily found online. Here are a few helpful links for [PlayStation], [Xbox] and [Apple Support].
 
 <!-- - For a PlayStation controller, press the PS button and Share button at the same time for a few seconds until the controller lights start flashing.
 
