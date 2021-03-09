@@ -7,24 +7,6 @@ permalink: /apps/
 Check out my apps and games on the App Store and stay tunned for next releases.
 
 <br />
-### El Trackpad
-
-Transform your iPhone or iPad into a full-featured Mac trackpad with gestures support. El Trackpad was featured on [9to5Mac][9to5mac], [Redmond Pie][redmondpie], [MacMagazine][macmagazine] and more.
-
-[<img
-src="{{ site.baseurl }}/images/apps/el-trackpad.png"
-alt="El Trackpad icon"
-height="128"
-style="padding: 0px">][eltrackpad]
-
-[Download El Trackpad][eltrackpad]
-
-[eltrackpad]: {{ site.baseurl }}/el-trackpad
-[9to5mac]: https://9to5mac.com/2020/10/02/el-trackpad-is-a-new-app-that-turns-your-iphone-or-ipad-into-a-real-mac-trackpad-with-gestures/
-[redmondpie]: https://www.redmondpie.com/how-to-turn-iphone-or-ipad-into-a-trackpad-for-mac-with-full-gestures-support/
-[macmagazine]: https://macmagazine.com.br/post/2020/10/05/app-transforma-o-seu-iphone-ipad-num-trackpad-completo-para-o-mac/
-
-<br />
 ### Controlly
 
 Use a game controller as a rich-featured remote control for Mac. Controlly was featured on [9to5Mac][9to5-controlly], [MacRumors][macrumors-controlly], [iMore][imore-controlly] and [iDownloadBlog][idb-controlly], among others.
@@ -42,6 +24,24 @@ style="padding: 0px">][Controlly]
 [macrumors-controlly]: https://www.macrumors.com/2021/02/08/controlly-app-remote-control-macs/
 [imore-controlly]: https://www.imore.com/turn-your-game-controller-mouse-your-mac-app
 [idb-controlly]: https://www.idownloadblog.com/2021/02/08/controlly-playstation-xbox-controller-app/
+
+<br />
+### El Trackpad
+
+Transform your iPhone or iPad into a full-featured Mac trackpad with gestures support. El Trackpad was featured on [9to5Mac][9to5mac], [Redmond Pie][redmondpie], [MacMagazine][macmagazine] and more.
+
+[<img
+src="{{ site.baseurl }}/images/apps/el-trackpad.png"
+alt="El Trackpad icon"
+height="128"
+style="padding: 0px">][eltrackpad]
+
+[Download El Trackpad][eltrackpad]
+
+[eltrackpad]: {{ site.baseurl }}/el-trackpad
+[9to5mac]: https://9to5mac.com/2020/10/02/el-trackpad-is-a-new-app-that-turns-your-iphone-or-ipad-into-a-real-mac-trackpad-with-gestures/
+[redmondpie]: https://www.redmondpie.com/how-to-turn-iphone-or-ipad-into-a-trackpad-for-mac-with-full-gestures-support/
+[macmagazine]: https://macmagazine.com.br/post/2020/10/05/app-transforma-o-seu-iphone-ipad-num-trackpad-completo-para-o-mac/
 
 <br />
 

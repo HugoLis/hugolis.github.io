@@ -1,16 +1,25 @@
-I"³<p>Check out my apps and games on the App Store and stay tunned for next releases.</p>
+I"¹<p>Check out my apps and games on the App Store and stay tunned for next releases.</p>
 
 <p><br /></p>
+<h3 id="controlly">Controlly</h3>
 
+<p>Use a game controller as a rich-featured remote control for Mac. Controlly was featured on <a href="https://9to5mac.com/2021/02/08/controlly-app-lets-you-use-playstation-and-xbox-controllers-as-remotes-for-mac/">9to5Mac</a>, <a href="https://www.macrumors.com/2021/02/08/controlly-app-remote-control-macs/">MacRumors</a>, <a href="https://www.imore.com/turn-your-game-controller-mouse-your-mac-app">iMore</a> and <a href="https://www.idownloadblog.com/2021/02/08/controlly-playstation-xbox-controller-app/">iDownloadBlog</a>, among others.</p>
+
+<p><a href="/controlly"><img src="/images/apps/controlly.png" alt="Controlly icon" height="128" style="padding: 0px" /></a></p>
+
+<p><a href="/controlly">Download Controlly</a></p>
+
+<p><br /></p>
 <h3 id="el-trackpad">El Trackpad</h3>
 
-<p>App that transforms your iPhone or iPad into a full-featured Mac trackpad with gestures support. El Trackpad was featured on <a href="https://9to5mac.com/2020/10/02/el-trackpad-is-a-new-app-that-turns-your-iphone-or-ipad-into-a-real-mac-trackpad-with-gestures/">9to5Mac</a>, <a href="https://www.redmondpie.com/how-to-turn-iphone-or-ipad-into-a-trackpad-for-mac-with-full-gestures-support/">Redmond Pie</a>, <a href="https://macmagazine.com.br/post/2020/10/05/app-transforma-o-seu-iphone-ipad-num-trackpad-completo-para-o-mac/">MacMagazine</a> and more.</p>
+<p>Transform your iPhone or iPad into a full-featured Mac trackpad with gestures support. El Trackpad was featured on <a href="https://9to5mac.com/2020/10/02/el-trackpad-is-a-new-app-that-turns-your-iphone-or-ipad-into-a-real-mac-trackpad-with-gestures/">9to5Mac</a>, <a href="https://www.redmondpie.com/how-to-turn-iphone-or-ipad-into-a-trackpad-for-mac-with-full-gestures-support/">Redmond Pie</a>, <a href="https://macmagazine.com.br/post/2020/10/05/app-transforma-o-seu-iphone-ipad-num-trackpad-completo-para-o-mac/">MacMagazine</a> and more.</p>
 
-<p><a href="/el-trackpad"><img src="/images/apps/el-trackpad.png" alt="Aster icon" height="128" style="padding: 0px" /></a></p>
+<p><a href="/el-trackpad"><img src="/images/apps/el-trackpad.png" alt="El Trackpad icon" height="128" style="padding: 0px" /></a></p>
 
 <p><a href="/el-trackpad">Download El Trackpad</a></p>
 
 <p><br /></p>
+
 <h3 id="aster">Aster</h3>
 
 <p>Space simulation game that challenges the player to use the gravity of planets to travel. Aster was featured twice on the App Store: <a href="https://apps.apple.com/us/story/id1468317935">story 1</a> and <a href="https://apps.apple.com/us/story/id1463610907">story 2</a>.</p>
@@ -72,7 +81,7 @@
 
 <h3 id="magic-aligner">Magic Aligner</h3>
 
-<p>Sketch plugin that align objects by their centers of mass. Magic Aligner automates optical adjustments in many cases. Check out the <a href="/Magic-Aligner">blog post</a> I wrote about it.</p>
+<p>Sketch plugin that align objects by their centers of mass. Magic Aligner automates optical adjustments in many cases. Check out the <a href="/magic-aligner">blog post</a> I wrote about it.</p>
 
 <p><a href="https://github.com/HugoLis/Magic-Aligner"><img src="/images/apps/magic-aligner.png" alt="Magic Aligner icon" height="128" style="padding: 0px" /></a></p>
 
