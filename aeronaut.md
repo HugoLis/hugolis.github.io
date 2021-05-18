@@ -1,9 +1,26 @@
 ---
 layout: page
-title: Aeronaut Privacy Policy
+title: Aeronaut (Coming Soon)
 permalink: /aeronaut/
 ---
 
+A one-button adventure game in which you guide a hot-air balloon through outer space.
+
+<img
+src="{{ site.baseurl }}/images/apps/aeronaut.png"
+alt="Aeronaut icon"
+height="128"
+style="padding: 0px">
+
+## [Download for iPhone or iPad][aeronaut-store]
+
+[aeronaut-store]: https://apps.apple.com/app/aeronaut/id1520819995
+
+Requires iOS 12 or later.
+
+<br/>
+
+## Privacy Policy
 
 Aeronaut takes your privacy very seriously and it does not gather any personally identifiable information. All proccessing is done on-device and no data is transmited anywhere.
 

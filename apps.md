@@ -7,6 +7,7 @@ permalink: /apps/
 Check out my apps and games on the App Store and stay tunned for next releases.
 
 <br />
+
 ### Controlly
 
 Use a game controller as a rich-featured remote control for Mac. Controlly was featured on [9to5Mac][9to5-controlly], [MacRumors][macrumors-controlly], [iMore][imore-controlly] and [iDownloadBlog][idb-controlly], among others.
@@ -17,15 +18,17 @@ alt="Controlly icon"
 height="128"
 style="padding: 0px">][Controlly]
 
-[Download Controlly][Controlly]
+[Download Controlly][controlly-store]
 
 [Controlly]: {{ site.baseurl }}/controlly
+[controlly-store]: https://apps.apple.com/app/controlly/id1548544614
 [9to5-controlly]: https://9to5mac.com/2021/02/08/controlly-app-lets-you-use-playstation-and-xbox-controllers-as-remotes-for-mac/
 [macrumors-controlly]: https://www.macrumors.com/2021/02/08/controlly-app-remote-control-macs/
 [imore-controlly]: https://www.imore.com/turn-your-game-controller-mouse-your-mac-app
 [idb-controlly]: https://www.idownloadblog.com/2021/02/08/controlly-playstation-xbox-controller-app/
 
 <br />
+
 ### El Trackpad
 
 Transform your iPhone or iPad into a full-featured Mac trackpad with gestures support. El Trackpad was featured on [9to5Mac][9to5mac], [Redmond Pie][redmondpie], [MacMagazine][macmagazine] and more.
@@ -79,6 +82,7 @@ style="padding: 0px">][splool]
 [splool]: https://apps.apple.com/app/id1461707564
 
 <br />
+
 ### Rami
 
 App that motivates users to complete tasks in the areas of health, productivity and fun.
@@ -94,6 +98,7 @@ style="padding: 0px">][rami]
 [Download Rami][rami]
 
 <br />
+
 ### Swift as the Wind
 
 Sailing game in which the user needs to guide a boat using only the wind.
@@ -109,21 +114,7 @@ style="padding: 0px">][swift-as-the-wind]
 [Download Swift as the Wind][swift-as-the-wind]
 
 <br />
-### Amazing Maze
 
-Game in which the player has to escape from a storm inside an infinite maze.
-
-[<img
-src="{{ site.baseurl }}/images/apps/amazing-maze.png"
-alt="Amazing Maze icon"
-height="128"
-style="padding: 0px">][amazing-maze]
-
-[amazing-maze]: https://apps.apple.com/app/amazing-maze/id1436962637
-
-[Download Amazing Maze][amazing-maze]
-
-<br />
 ### Zip Zap
 
 File manager for iOS with zip and unzip support.
@@ -139,9 +130,25 @@ style="padding: 0px">][zip-zap]
 [Download Zip Zap][zip-zap]
 
 <br />
-# Other Projects
 
-<!--Not exaclty apps, but also great software. -->
+### Aeronaut (Coming Soon)
+
+A one-button adventure game in which you guide a hot-air balloon through outer space.
+
+[<img
+src="{{ site.baseurl }}/images/apps/aeronaut.png"
+alt="Aeronaut icon"
+height="128"
+style="padding: 0px">][aeronaut-page]
+
+[aeronaut-page]: {{ site.baseurl }}/aeronaut
+[aeronaut-store]: https://apps.apple.com/app/aeronaut/id1520819995
+
+[Download Aeronaut][aeronaut-store]
+
+<br />
+
+# Other Projects
 
 ### Magic Aligner
 
@@ -158,3 +165,19 @@ style="padding: 0px">][magic-aligner]
 [Download Magic Aligner][magic-aligner]
 
 [magic-aligner]: https://github.com/HugoLis/Magic-Aligner
+
+<br />
+
+# Past Projects
+
+### Amazing Maze
+
+Game in which the player has to escape from a storm inside an infinite maze.
+
+<img
+src="{{ site.baseurl }}/images/apps/amazing-maze.png"
+alt="Amazing Maze icon"
+height="128"
+style="padding: 0px">
+
+<br />
