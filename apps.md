@@ -67,6 +67,23 @@ style="padding: 0px">][aster]
 
 <br />
 
+### Aeronaut
+
+One-button adventure game in which you guide a hot-air balloon through outer space.
+
+[<img
+src="{{ site.baseurl }}/images/apps/aeronaut.png"
+alt="Aeronaut icon"
+height="128"
+style="padding: 0px">][aeronaut-page]
+
+[aeronaut-page]: {{ site.baseurl }}/aeronaut
+[aeronaut-store]: https://apps.apple.com/app/aeronaut/id1520819995
+
+[Download Aeronaut][aeronaut-store]
+
+<br />
+
 ### Splool
 
 Infinite running game in which the player rides floats through dangerous water slides.
@@ -128,23 +145,6 @@ style="padding: 0px">][zip-zap]
 [zip-zap]: https://apps.apple.com/app/zip-zap/id1463904567
 
 [Download Zip Zap][zip-zap]
-
-<br />
-
-### Aeronaut (Coming Soon)
-
-A one-button adventure game in which you guide a hot-air balloon through outer space.
-
-[<img
-src="{{ site.baseurl }}/images/apps/aeronaut.png"
-alt="Aeronaut icon"
-height="128"
-style="padding: 0px">][aeronaut-page]
-
-[aeronaut-page]: {{ site.baseurl }}/aeronaut
-[aeronaut-store]: https://apps.apple.com/app/aeronaut/id1520819995
-
-[Download Aeronaut][aeronaut-store]
 
 <br />
 

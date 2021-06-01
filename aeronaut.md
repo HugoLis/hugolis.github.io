@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aeronaut (Coming Soon)
+title: Aeronaut
 permalink: /aeronaut/
 ---
 
@@ -16,7 +16,7 @@ style="padding: 0px">
 
 [aeronaut-store]: https://apps.apple.com/app/aeronaut/id1520819995
 
-Requires iOS 12 or later.
+Requires iOS 12.0 or later.
 
 <br/>
 
