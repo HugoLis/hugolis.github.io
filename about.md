@@ -63,8 +63,8 @@ Throughout the time I volunteered at [Yad Ezer La'Haver][yad-ezer], I was able t
 <br />
 ## Honors and Awards
 
-<span style="color:rgb(34,34,34)">**WWDC Scholarship Winner**</span>  <br />
-<span style="color:rgb(34,34,34)">*Selected by Apple for two years in a row, 2018 and 2019*</span>
+<span style="color:rgb(34,34,34)">**WWDC Scholarship & Swift Student Challenge Winner**</span>  <br />
+<span style="color:rgb(34,34,34)">*Selected by Apple three times in the years 2018, 2019 and 2021*</span>
 
 <!--<img src="{{ site.baseurl }}/images/about/scholar2018.png" height="65" style="padding: 0px">
 &nbsp;
