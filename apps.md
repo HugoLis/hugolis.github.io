@@ -69,7 +69,7 @@ style="padding: 0px">][aster]
 
 ### Aeronaut
 
-One-button adventure game in which you guide a hot-air balloon through outer space.
+One-button adventure game in which you guide a hot-air balloon through outer space. You can learn more about how I created Aeronaut in this [story][playground-story] on the App Store.
 
 [<img
 src="{{ site.baseurl }}/images/apps/aeronaut.png"
@@ -79,6 +79,7 @@ style="padding: 0px">][aeronaut-page]
 
 [aeronaut-page]: {{ site.baseurl }}/aeronaut
 [aeronaut-store]: https://apps.apple.com/app/aeronaut/id1520819995
+[playground-story]: https://apps.apple.com/story/id1567461277
 
 [Download Aeronaut][aeronaut-store]
 
