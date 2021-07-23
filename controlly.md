@@ -50,6 +50,13 @@ Right-click on the file, then click "open". If it still gives an error, try othe
 [Apple Community]: https://discussions.apple.com/thread/250425993
 [Apple Support]: https://support.apple.com/en-us/HT202491 -->
 
+#### Some actions are not working
+Controlly currently triggers Mission Control, App Exposé, and Swipe between desktops on the Mac by simulating the default shortcut for those actions. You may have set custom shortcuts for some of those actions, so Controlly cannot trigger them anymore. It is possible to restore the default shortcuts on System Preferences > Keyboard > Shortcuts > Mission Control. Here is a screenshot for reference.
+
+![Restore default shortcuts]({{ site.baseurl }}/images/auxiliary/default-shortcuts.png)
+
+I understand that this is not an ideal solution, but to truly solve this problem, the app would have to read a private system file that stores users shortcuts. This approach would raise some privacy concerns and I don't feel comfortable doing that.
+
 #### How to make Controlly launch on Mac startup
 
 Go to System Preferences > Users & Groups > Login Items, then click on "+" and select Controlly.

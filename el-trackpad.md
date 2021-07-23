@@ -55,6 +55,13 @@ Try quiting both apps and relaunching them. If the problem persists, you may try
 
 To use 4 and 5 fingers trackpad gestures on the iPad, disable system multitasking gestures on Settings > Home Screen and Dock > Multitasking > Gestures. Gestures may not be recognized by El Trackpad if they are already being used by the system for other purpose. For example, you may have to disable system zoom in order to use El Trackpad's three fingers gestures.
 
+Also, El Trackpad currently triggers Mission Control, App Exposé, and Swipe between desktops on the Mac by simulating the default shortcut for those actions. You may have set custom shortcuts for some of those actions, so El Trackpad cannot trigger them anymore. It is possible to restore the default shortcuts on System Preferences > Keyboard > Shortcuts > Mission Control. Here is a screenshot for reference.
+
+![Restore default shortcuts]({{ site.baseurl }}/images/auxiliary/default-shortcuts.png)
+
+I understand that this is not an ideal solution, but to truly solve this problem, the app would have to read a private system file that stores users shortcuts. This approach would raise some privacy concerns and I don't feel comfortable doing that.
+
+
 #### How to make El Trackpad launch on Mac startup
 
 Go to System Preferences > Users & Groups > Login Items, then click on "+" and select El Trackpad.
