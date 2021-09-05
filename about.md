@@ -44,7 +44,7 @@ As an undergraduate of Computer Engineering at [Universidade Federal de Pernambu
 <span style="color:rgb(34,34,34)">**iOS Developer**</span>  <br />
 <span style="color:rgb(34,34,34)">*Jan 2018 - Present*</span>
 
-I have created many apps and games for education, accessibility, wellness and fun. Check out [my apps](/apps) and make sure to stay tunned for the next ones.
+I have created many apps and games for education, accessibility, wellness and fun. Check out [my apps](/apps).
 
 <span style="color:rgb(34,34,34)">**Summer Intern**</span>  <br />
 <span style="color:rgb(34,34,34)">*CESAR - Instituto de Inovação — Recife, Brazil, Jan - Feb 2019*</span>
@@ -64,7 +64,7 @@ Throughout the time I volunteered at [Yad Ezer La'Haver][yad-ezer], I was able t
 ## Honors and Awards
 
 <span style="color:rgb(34,34,34)">**WWDC Scholarship & Swift Student Challenge Winner**</span>  <br />
-<span style="color:rgb(34,34,34)">*Selected by Apple three times in the years 2018, 2019 and 2021*</span>
+<span style="color:rgb(34,34,34)">*Selected by Apple three times: 2018, 2019 and 2021*</span>
 
 <!--<img src="{{ site.baseurl }}/images/about/scholar2018.png" height="65" style="padding: 0px">
 &nbsp;
@@ -99,7 +99,6 @@ To be selected to attend [ Apple Worldwide Developers Conference][wwdc], I creat
 
 <br />
 ## Contact
-Feel free to get in touch!
 
 **Email:** [hugolispector@gmail.com](mailto:hugolispector@gmail.com) <br />
-**Social Networks:** on the website footer
+**Social Networks:** in the website footer.

@@ -4,7 +4,7 @@ title: Apps
 permalink: /apps/
 ---
 
-Check out my apps and games on the App Store and stay tunned for next releases.
+Check out my apps and games on the App Store.
 
 <br />
 
