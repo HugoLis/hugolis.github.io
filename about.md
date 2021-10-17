@@ -7,6 +7,33 @@ permalink: /about/
 Hi, my name is Hugo Lispector. I am an app developer, game designer, photographer and Computer Engineering student from Recife, Brazil. I am deeply passionate about technology and design, as well as creating products that improve people's lives.
 
 <br />
+
+## Experience
+
+<span style="color:rgb(34,34,34)">**Software Engineer**</span>  <br />
+<span style="color:rgb(34,34,34)">*Apple/UFPE Partnership, Jul 2021 - Present*</span>
+
+<span style="color:rgb(34,34,34)">**Independent App Developer**</span>  <br />
+<span style="color:rgb(34,34,34)">*Self-employed, Jan 2018 - Present*</span>
+
+I have created many apps and games for education, accessibility, wellness and fun. Check out [my apps](/apps).
+
+<span style="color:rgb(34,34,34)">**Summer Intern**</span>  <br />
+<span style="color:rgb(34,34,34)">*CESAR - Instituto de Inovação, Jan - Feb 2019*</span>
+
+During the summer job program at [CESAR][cesar], I developed a cognitive stimulating virtual reality game for people who suffer dementia.
+
+[cesar]: https://www.cesar.org.br/
+
+<span style="color:rgb(34,34,34)">**Photographer**</span>  <br />
+<span style="color:rgb(34,34,34)">*Holocaust Museum of Haifa, Jun - Jul 2016*</span>
+
+Throughout the time I volunteered at [Yad Ezer La'Haver][yad-ezer], I was able to photograph dozens of holocaust survivors and document their stories. Currently, the photographs I took are part of the permanent exhibition of the museum.
+
+[yad-ezer]: https://yadezer.org.il/?lang=en
+
+<br />
+
 ## Education
 
 <span style="color:rgb(34,34,34)">**Apple Developer Academy \| UFPE**</span> 
@@ -38,29 +65,13 @@ As an undergraduate of Computer Engineering at [Universidade Federal de Pernambu
 
 [ufpe]: https://www.ufpe.br/
 
-<br />
-## Experience
+<span style="color:rgb(34,34,34)">**Machon Le Madrichim**</span>  <br />
+<span style="color:rgb(34,34,34)">*Youth Leadership Training, class of 2016*</span>
 
-<span style="color:rgb(34,34,34)">**iOS Developer**</span>  <br />
-<span style="color:rgb(34,34,34)">*Jan 2018 - Present*</span>
-
-I have created many apps and games for education, accessibility, wellness and fun. Check out [my apps](/apps).
-
-<span style="color:rgb(34,34,34)">**Summer Intern**</span>  <br />
-<span style="color:rgb(34,34,34)">*CESAR - Instituto de Inovação — Recife, Brazil, Jan - Feb 2019*</span>
-
-During the summer job program at [CESAR][cesar], I developed a cognitive stimulating virtual reality game for people who suffer dementia.
-
-[cesar]: https://www.cesar.org.br/
-
-<span style="color:rgb(34,34,34)">**Photographer**</span>  <br />
-<span style="color:rgb(34,34,34)">*Holocaust Museum — Haifa, Israel, Jun - Jul 2016*</span>
-
-Throughout the time I volunteered at [Yad Ezer La'Haver][yad-ezer], I was able to photograph dozens of holocaust survivors and document their stories. Currently, the photographs I took are part of the permanent exhibition of the museum.
-
-[yad-ezer]: https://yadezer.org.il/?lang=en
+As a student at Machon Le Madrichim, I had the chance to meet youth movements members from around the world in Jerusalem. The program aims to educate and strengthen youth leadership in order to foster its graduates to become agents of change in their home communities.
 
 <br />
+
 ## Honors and Awards
 
 <span style="color:rgb(34,34,34)">**WWDC Scholarship & Swift Student Challenge Winner**</span>  <br />
