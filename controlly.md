@@ -6,6 +6,13 @@ permalink: /controlly/
 
 Use a game controller as a rich-featured remote control for Mac.
 
+<br/>
+
+## Compatibility Notice
+This app requires macOS 11 (Big Sur) and it's not supported on macOS 12 (Monterey) and later.
+
+<br/>
+
 <img
 src="{{ site.baseurl }}/images/apps/controlly.png"
 alt="Controlly icon"
@@ -15,8 +22,6 @@ style="padding: 0px">
 ## [Download for Mac][DownloadLinkMac]
 
 [DownloadLinkMac]: https://apps.apple.com/app/controlly/id1548544614
-
-Requires macOS 11 (Big Sur) or later.
 
 <a id="support"></a>
 
@@ -40,8 +45,9 @@ Instructions for puting a controller into pairing mode vary for each model, but 
 
 
 #### Controller is connected, but Mac is not responding
+Controlly requires macOS 11 (Big Sur) and it's not supported on macOS 12 (Monterey) and later.
 
-You probbably did not enable accessibility features for Controlly. Go to System Preferences > Security & Privacy > Accessibility, then click on the locker on the bottom left of the window and enable Controlly's checkbox.
+If you are running a supported macOS version, you probbably did not enable accessibility features for Controlly. Go to System Preferences > Security & Privacy > Accessibility, then click on the locker on the bottom left of the window and enable Controlly's checkbox.
 
 <!-- #### Mac shows an error when trying to open the .dmg installer
 

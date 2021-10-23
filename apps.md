@@ -8,24 +8,21 @@ Check out my apps and games on the App Store.
 
 <br />
 
-### Controlly
+### Aeronaut
 
-Use a game controller as a rich-featured remote control for Mac. Controlly was featured on [9to5Mac][9to5-controlly], [MacRumors][macrumors-controlly], [iMore][imore-controlly] and [iDownloadBlog][idb-controlly], among others.
+One-button adventure game in which you guide a hot-air balloon through outer space. You can learn more about how I created Aeronaut in this [story][playground-story] on the App Store.
 
 [<img
-src="{{ site.baseurl }}/images/apps/controlly.png"
-alt="Controlly icon"
+src="{{ site.baseurl }}/images/apps/aeronaut.png"
+alt="Aeronaut icon"
 height="128"
-style="padding: 0px">][Controlly]
+style="padding: 0px">][aeronaut-page]
 
-[Download Controlly][controlly-store]
+[aeronaut-page]: {{ site.baseurl }}/aeronaut
+[aeronaut-store]: https://apps.apple.com/app/aeronaut/id1520819995
+[playground-story]: https://apps.apple.com/story/id1567461277
 
-[Controlly]: {{ site.baseurl }}/controlly
-[controlly-store]: https://apps.apple.com/app/controlly/id1548544614
-[9to5-controlly]: https://9to5mac.com/2021/02/08/controlly-app-lets-you-use-playstation-and-xbox-controllers-as-remotes-for-mac/
-[macrumors-controlly]: https://www.macrumors.com/2021/02/08/controlly-app-remote-control-macs/
-[imore-controlly]: https://www.imore.com/turn-your-game-controller-mouse-your-mac-app
-[idb-controlly]: https://www.idownloadblog.com/2021/02/08/controlly-playstation-xbox-controller-app/
+[Download Aeronaut][aeronaut-store]
 
 <br />
 
@@ -48,6 +45,27 @@ style="padding: 0px">][eltrackpad]
 
 <br />
 
+### Controlly
+
+Use a game controller as a rich-featured remote control for Mac. Controlly was featured on [9to5Mac][9to5-controlly], [MacRumors][macrumors-controlly], [iMore][imore-controlly] and [iDownloadBlog][idb-controlly], among others.
+
+[<img
+src="{{ site.baseurl }}/images/apps/controlly.png"
+alt="Controlly icon"
+height="128"
+style="padding: 0px">][Controlly]
+
+[Download Controlly][controlly-store]
+
+[Controlly]: {{ site.baseurl }}/controlly
+[controlly-store]: https://apps.apple.com/app/controlly/id1548544614
+[9to5-controlly]: https://9to5mac.com/2021/02/08/controlly-app-lets-you-use-playstation-and-xbox-controllers-as-remotes-for-mac/
+[macrumors-controlly]: https://www.macrumors.com/2021/02/08/controlly-app-remote-control-macs/
+[imore-controlly]: https://www.imore.com/turn-your-game-controller-mouse-your-mac-app
+[idb-controlly]: https://www.idownloadblog.com/2021/02/08/controlly-playstation-xbox-controller-app/
+
+<br />
+
 ### Aster
 
 Space simulation game that challenges the player to use the gravity of planets to travel. Aster was featured twice on the App Store: [story 1][story1] and [story 2][story2].
@@ -64,24 +82,6 @@ style="padding: 0px">][aster]
 [Download Aster][aster]
 
 [aster]: https://apps.apple.com/app/aster/id1385736929
-
-<br />
-
-### Aeronaut
-
-One-button adventure game in which you guide a hot-air balloon through outer space. You can learn more about how I created Aeronaut in this [story][playground-story] on the App Store.
-
-[<img
-src="{{ site.baseurl }}/images/apps/aeronaut.png"
-alt="Aeronaut icon"
-height="128"
-style="padding: 0px">][aeronaut-page]
-
-[aeronaut-page]: {{ site.baseurl }}/aeronaut
-[aeronaut-store]: https://apps.apple.com/app/aeronaut/id1520819995
-[playground-story]: https://apps.apple.com/story/id1567461277
-
-[Download Aeronaut][aeronaut-store]
 
 <br />
 
