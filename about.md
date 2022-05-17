@@ -4,95 +4,27 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Hugo Lispector. I am an app developer, game designer, photographer and Computer Engineering student from Recife, Brazil. I am deeply passionate about technology and design, as well as creating products that improve people's lives.
+Hi, my name is Hugo Lispector. I am an app developer, game designer and photographer from Recife, Brazil. I am deeply passionate about technology and design, as well as creating products that improve people's lives.
 
-<br />
-
-## Experience
-
-<span style="color:rgb(34,34,34)">**Software Engineer**</span>  <br />
-<span style="color:rgb(34,34,34)">*Apple/UFPE Partnership, Jul 2021 - Present*</span>
-
-<span style="color:rgb(34,34,34)">**Independent App Developer**</span>  <br />
-<span style="color:rgb(34,34,34)">*Self-employed, Jan 2018 - Present*</span>
-
-I have created many apps and games for education, accessibility, wellness and fun. Check out [my apps](/apps).
-
-<span style="color:rgb(34,34,34)">**Summer Intern**</span>  <br />
-<span style="color:rgb(34,34,34)">*CESAR - Instituto de Inovação, Jan - Feb 2019*</span>
-
-During the summer job program at [CESAR][cesar], I developed a cognitive stimulating virtual reality game for people who suffer dementia.
-
-[cesar]: https://www.cesar.org.br/
-
-<span style="color:rgb(34,34,34)">**Photographer**</span>  <br />
-<span style="color:rgb(34,34,34)">*Holocaust Museum of Haifa, Jun - Jul 2016*</span>
-
-Throughout the time I volunteered at [Yad Ezer La'Haver][yad-ezer], I was able to photograph dozens of holocaust survivors and document their stories. Currently, the photographs I took are part of the permanent exhibition of the museum.
-
-[yad-ezer]: https://yadezer.org.il/?lang=en
-
-<br />
-
-## Education
-
-<span style="color:rgb(34,34,34)">**Apple Developer Academy \| UFPE**</span> 
-<br />
-<span style="color:rgb(34,34,34)">*Class of Jan 2018 - Dec 2019*</span>
-
-<!--[<img
-src="{{ site.baseurl }}/images/about/ufpe-ada.png"
-alt="Apple Developer Academy logo"
-height="60"
-style="padding: 0px">](http://academy.cin.ufpe.br/) -->
-
-At the [Apple Developer Academy][academy], I had the opportunity to improve coding, design and innovation skills by creating apps for all Apple platforms. During those projects, I led many groups of people from various backgrounds, which allowed me to enhance my interdisciplinary teamwork abilities, problem solving and project management skills.
-
+### Education
+I studied Computer Engineering at [Universidade Federal de Pernambuco][ufpe] and I am also an [Apple Developer Academy][academy] graduate.
 
 [academy]: https://academy.cin.ufpe.br/
-
-
-<span style="color:rgb(34,34,34)">**Universidade Federal de Pernambuco**</span>  <br />
-<span style="color:rgb(34,34,34)">*Bachelor of Computer Engineering, expected to graduate in 2022*</span>
-
-<!--[<img
-src="{{ site.baseurl }}/images/about/ufpe-cin.png"
-alt="Universidade Federal de Pernambuco logo"
-height="60"
-style="padding: 0px">](https://www.ufpe.br/) -->
-
-As an undergraduate of Computer Engineering at [Universidade Federal de Pernambuco][ufpe], I have gained invaluable academic experience as a teaching assistant for Introduction to Programming and Operating Systems courses.
-
 [ufpe]: https://www.ufpe.br/
 
-<span style="color:rgb(34,34,34)">**Machon Le Madrichim**</span>  <br />
-<span style="color:rgb(34,34,34)">*Youth Leadership Training, class of 2016*</span>
+### Experience
+I have worked as an app developer since the beginning of 2018, focusing my practice on Apple's platforms.
 
-As a student at Machon Le Madrichim, I had the chance to meet youth movements members from around the world in Jerusalem. The program aims to educate and strengthen youth leadership in order to foster its graduates to become agents of change in their home communities.
+### Honors and Awards
 
-<br />
-
-## Honors and Awards
-
-<span style="color:rgb(34,34,34)">**WWDC Scholarship & Swift Student Challenge Winner**</span>  <br />
-<span style="color:rgb(34,34,34)">*Selected by Apple three times: 2018, 2019 and 2021*</span>
-
-<!--<img src="{{ site.baseurl }}/images/about/scholar2018.png" height="65" style="padding: 0px">
-&nbsp;
-<img src="{{ site.baseurl }}/images/about/scholar2019.png" height="65" style="padding: 0px"> -->
-
-To be selected to attend [ Apple Worldwide Developers Conference][wwdc], I created a Swift Playground in each one of the years.
-
-[wwdc]: https://developer.apple.com/wwdc/
-
-<span style="color:rgb(34,34,34)">**Featured on the App Store and Tech Websites**</span>  <br />
-<span style="color:rgb(34,34,34)">*Had my apps [Aster][aster], [El Trackpad][eltrackpad], [Aeronaut][aeronaut] and [Controlly][controlly] highlighted many times*</span> 
+I was selected to attend Apple's [WWDC][wwdc] a couple of times as a scholarship winner and I also won Apple's Swift Student Challenge once. Besides that, many of my apps were featured on the App Store and technology websites:
 
 [Aster][aster]: featured twice on the App Store — [story 1][story1] and [story 2][story2]. <br/>
 [El Trackpad][eltrackpad]: featured on [9to5Mac][9to5mac], [Redmond Pie][redmondpie], [MacMagazine][macmagazine] and more. <br/>
 [Controlly][controlly]: featured on [9to5Mac][9to5-controlly], [MacRumors][macrumors-controlly], [iMore][imore-controlly] and [iDownloadBlog][idb-controlly], among others.
 [Aeronaut][aeronaut]: highlighted as a Swift Student Challenge winner on the [App Store][aeronaut-story].
 
+[wwdc]: http://developer.apple.com/wwdc
 [aster]: https://apps.apple.com/us/app/aster/id1385736929?l=en
 [story1]: https://apps.apple.com/us/story/id1468317935
 [story2]: https://apps.apple.com/us/story/id1463610907
@@ -107,9 +39,3 @@ To be selected to attend [ Apple Worldwide Developers Conference][wwdc], I creat
 [macrumors-controlly]: https://www.macrumors.com/2021/02/08/controlly-app-remote-control-macs/
 [imore-controlly]: https://www.imore.com/turn-your-game-controller-mouse-your-mac-app
 [idb-controlly]: https://www.idownloadblog.com/2021/02/08/controlly-playstation-xbox-controller-app/
-
-<br />
-## Contact
-
-**Email:** [hugolispector@gmail.com](mailto:hugolispector@gmail.com) <br />
-**Social Networks:** in the website footer.
