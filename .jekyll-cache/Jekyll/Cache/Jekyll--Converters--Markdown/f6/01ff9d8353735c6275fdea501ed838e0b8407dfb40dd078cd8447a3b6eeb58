@@ -1,16 +1,24 @@
-I"q<p>Use a game controller as a rich-featured remote control for Mac.</p>
+I"<p>Use a game controller as a rich-featured remote control for Mac.</p>
+
+<p><br /></p>
+
+<h2 id="compatibility-notice">Compatibility Notice</h2>
+<p>This app requires macOS 11 (Big Sur) and it’s not supported on macOS 12 (Monterey) and later.</p>
+
+<p><br /></p>
 
 <p><img src="/images/apps/controlly.png" alt="Controlly icon" height="128" style="padding: 0px" /></p>
 
 <h2 id="download-for-mac"><a href="https://apps.apple.com/app/controlly/id1548544614">Download for Mac</a></h2>
-
-<p>Requires macOS 11 (Big Sur) or later.</p>
 
 <p><a id="support"></a></p>
 
 <p><br /></p>
 
 <h2 id="support">Support</h2>
+
+<h4 id="the-app-is-not-working-on-macos-monterey">The app is not working on macOS Monterey</h4>
+<p>Unfortunately, Controlly is not compatible with macOS Monterey. This system limited the use of APIs that are key to the app and this is something outside of my control. I would suggest trying alternative apps, like <a href="https://yukkurigames.com/enjoyable/">Enjoyable</a>.</p>
 
 <h4 id="how-to-connect-a-game-controller-to-mac">How to connect a game controller to Mac</h4>
 
@@ -23,8 +31,9 @@
 - For Bluetooth enabled Xbox controllers, press and hold the Pair button for a few seconds. -->
 
 <h4 id="controller-is-connected-but-mac-is-not-responding">Controller is connected, but Mac is not responding</h4>
+<p>Controlly requires macOS 11 (Big Sur) and it’s not supported on macOS 12 (Monterey) and later.</p>
 
-<p>You probbably did not enable accessibility features for Controlly. Go to System Preferences &gt; Security &amp; Privacy &gt; Accessibility, then click on the locker on the bottom left of the window and enable Controlly’s checkbox.</p>
+<p>If you are running a supported macOS version, you probbably did not enable accessibility features for Controlly. Go to System Preferences &gt; Security &amp; Privacy &gt; Accessibility, then click on the locker on the bottom left of the window and enable Controlly’s checkbox.</p>
 
 <!-- #### Mac shows an error when trying to open the .dmg installer
 

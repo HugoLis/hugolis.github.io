@@ -30,7 +30,7 @@ style="padding: 0px">
 ## Support
 
 #### The app is not working on macOS Monterey
-Unfortunatelly, Controlly is not compatible with macOS Monterey. This system limited the use of APIs that are key to the app and this is something outside of my control. I would suggest trying alternative apps, like [Enjoyable].
+Unfortunately, Controlly is not compatible with macOS Monterey. This system limited the use of APIs that are key to the app and this is something outside of my control. I would suggest trying alternative apps, like [Enjoyable].
 
 [Enjoyable]: https://yukkurigames.com/enjoyable/ 
  
