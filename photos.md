@@ -75,7 +75,7 @@ In 1822, the Recife Lighthouse was inaugurated over the barrier, next to an [old
       @include mobile {
         line-height: 1.4;
       }
-      font-size: 24px;
+      font-size: 30px;
       margin: 1em 0 0px;
 <!--      a {-->
 <!--        color: inherit;-->
