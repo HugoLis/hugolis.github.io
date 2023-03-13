@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="date">
+    {% if page.subtitle != nul %}
+     {{ page.subtitle }}
+    {% else %}
+      {{ page.date | date: "%B %e, %Y" }}
+    {% endif %}
+  </div>
+  
+  <h1></h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+  
+  {% include disqus.html %}
+</article>
+
+<script type="text/javascript" src="/lightbox/lightbox.js"></script>
+<link rel="stylesheet" href="/lightbox/lightbox.css">
+
+<style>
+    .photo {
+        object-fit:cover;
+        height: 236.6px;
+        width: 236.6px;
+        border: solid white;
+        border-width: 0px 1px 0px 1px;
+    }
+
+    @media only screen and (max-width: 740px) {
+      .photo {
+            height: 31.7vw;
+            width: 31.7vw;
+      }
+
+    @media only screen and (max-width: 620px) {
+      .photo {
+            height: 31.1vw;
+            width: 31.1vw;
+      }
+      
+    @media only screen and (max-width: 500px) {
+      .photo {
+            height: 30.7vw;
+            width: 30.7vw;
+      }
+    
+    @media only screen and (max-width: 380px) {
+      .photo {
+            height: 30.5vw;
+            width: 30.5vw;
+      }
+      
+    @media only screen and (max-width: 360px) {
+      .photo {
+            height: 30.2vw;
+            width: 30.2vw;
+      }
+
+}
+</style>

@@ -1,19 +1,9 @@
 ---
-layout: page
-title: Photos
-permalink: /photos/
+layout: photo-post
+title: Over the Reef
+subtitle: Shot in Recife, October, 2013
 ---
 
-For me, photography has always been a magical tool for capturing and sharing experiences. Here are some photo stories I have shot over the years.
-
-<a id="over-the-reef"></a>
-
-<br>
-
-[reef]: {{ site.baseurl }}/photos/#over-the-reef
-<span class="title"> Over the Reef </span> <br>
-<span class="date"> Recife, October 2013 </span> [_❖_][reef]
- 
 Recife was built next to a long barrier reef. More than a natural anchorage, the barrier also gave the city its name, which literally means reef.
 
 In 1822, the Recife Lighthouse was inaugurated over the barrier, next to an [old fortress](https://fortedopicao.com/about/) from the early 1600s. Even though a port “modernization” project sadly demolished the centuries-old fortress in 1910, its nonagonal foundation remains visible.
