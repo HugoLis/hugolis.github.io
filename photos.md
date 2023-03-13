@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Photos
+title:
 permalink: /photos/
 ---
 
-For me, photography has always been a magical tool for capturing and sharing experiences. Here are some photo stories I have shot over the years.
-
 <a id="over-the-reef"></a>
 
-<br>
-
 [reef]: {{ site.baseurl }}/photos/#over-the-reef
-<span class="title"> Over the Reef </span> <br>
+
+<span class="title">
+Over the Reef
+</span> <br> 
 <span class="date"> Recife, October 2013 </span> [_❖_][reef]
  
 Recife was built next to a long barrier reef. More than a natural anchorage, the barrier also gave the city its name, which literally means reef.
@@ -75,12 +74,13 @@ In 1822, the Recife Lighthouse was inaugurated over the barrier, next to an [old
       @include mobile {
         line-height: 1.4;
       }
-      font-size: 24px;
-      margin: 1em 0 0px;
-<!--      a {-->
-<!--        color: inherit;-->
-<!--      }-->
+      font-size: 30px;
+      margin: 1em 0 0px;    
     }
+
+}
+    
+
     .photo {
         object-fit:cover;
         height: 236.6px;
