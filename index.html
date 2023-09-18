@@ -1,29 +1,35 @@
 ---
 layout: default
 ---
-
+<!--
+  {% if post.layout != "photo-post" %}
+  {% endif %}
+-->
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+    {% if post.layout != "photo-post" %}
+      <article class="post">
 
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      
-      <div class="date">
         {% if post.subtitle != nul %}
+        <div class="subtitle">
           {{ post.subtitle }}
-        {% else %}
-          {{ post.date | date: "%B %e, %Y" }}
+        </div>
         {% endif %}
-      </div>
-      
-      <h1></h1>
-      
-      <div class="entry">
-          {{ post.content }}
-      </div>
 
-      <!--<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>-->
-    </article>
+        <div class="date">
+          {{ post.date | date: "%B %e, %Y" }} 
+        </div>
+        
+        <h1></h1>
+        
+        <div class="entry">
+            {{ post.content }}
+        </div>
+
+        <!--<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>-->
+      </article>
+    {% endif %}
   {% endfor %}
 </div>

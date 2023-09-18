@@ -116,6 +116,12 @@ img {
   max-width: none;
 }
 
+.subtitle {
+  font-weight: bold;
+  font-style: italic;
+  color: $gray;
+}
+
 .date {
   font-style: italic;
   color: $gray;
