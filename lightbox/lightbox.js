@@ -62,7 +62,8 @@ function setGallery(el) {
     }
 
     //Discrete swipe support.
-    let touchStartX = 0
+    let touchStartX = 0;
+    let touchStartY = 0;
     // Prevents accidental swipes when more than one finger is touching.
     let breakSwipe = false;
     document.ontouchstart = (t0) => {
@@ -73,21 +74,35 @@ function setGallery(el) {
         breakSwipe = false;
       }
       touchStartX = t0.changedTouches[0].screenX;
+      touchStartY = t0.changedTouches[0].screenY;
     }
     document.ontouchend = (t1) => {
       t1 = t1;
       if (breakSwipe === true) {
         return;
       }
+
+      let touchEndY = t1.changedTouches[0].screenY;
       let touchEndX = t1.changedTouches[0].screenX;
-      let threshhold = 50;
-      if ((touchEndX - touchStartX) > threshhold) {
+      let verticalThreshhold = 50;
+      let horizontalThreshhold = 50;
+
+      if ((touchEndY - touchStartY) > verticalThreshhold) {
+        document.getElementById("close").click()
+      }
+      if ((touchEndY - touchStartY) < -verticalThreshhold) {
+        document.getElementById("close").click()
+      }
+
+      if ((touchEndX - touchStartX) > horizontalThreshhold) {
         gallery_elements[prevkey].click();
       }
-      if ((touchEndX - touchStartX) < -threshhold) {
+      if ((touchEndX - touchStartX) < -horizontalThreshhold) {
         gallery_elements[nextkey].click();
       }
+
       touchStartX = 0
+      touchStartY = 0
     }
 	}
 }
@@ -117,7 +132,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     //remove the clicked lightbox
     document.getElementById('lightbox').addEventListener("click", function(event) {
-        if(event.target.id != 'next' && event.target.id != 'prev'){
+        if(event.target.id != 'next' && event.target.id != 'prev' && !event.target.classList.contains('img')){
             this.innerHTML = '';
             document.getElementById('lightbox').style.display = 'none';
             //Enables scrolling when lightbox is hidden.
