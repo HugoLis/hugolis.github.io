@@ -132,7 +132,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     //remove the clicked lightbox
     document.getElementById('lightbox').addEventListener("click", function(event) {
-        if(event.target.id != 'next' && event.target.id != 'prev' && !event.target.classList.contains('img')){
+        if(event.target.id != 'next' && event.target.id != 'prev'){
             this.innerHTML = '';
             document.getElementById('lightbox').style.display = 'none';
             //Enables scrolling when lightbox is hidden.
