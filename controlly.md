@@ -8,11 +8,6 @@ Use a game controller as a rich-featured remote control for Mac.
 
 <br/>
 
-## Compatibility Notice
-This app requires macOS 11 (Big Sur) and it's not supported on macOS 12 (Monterey) and later.
-
-<br/>
-
 <img
 src="{{ site.baseurl }}/images/apps/controlly.png"
 alt="Controlly icon"
@@ -28,11 +23,6 @@ style="padding: 0px">
 <br/>
 
 ## Support
-
-#### The app is not working on macOS Monterey
-Unfortunately, Controlly is not compatible with macOS Monterey. This system limited the use of APIs that are key to the app and this is something outside of my control. I would suggest trying alternative apps, like [Enjoyable].
-
-[Enjoyable]: https://yukkurigames.com/enjoyable/ 
  
 #### How to connect a game controller to Mac
 
@@ -50,9 +40,8 @@ Instructions for puting a controller into pairing mode vary for each model, but 
 
 
 #### Controller is connected, but Mac is not responding
-Controlly requires macOS 11 (Big Sur) and it's not supported on macOS 12 (Monterey) and later.
 
-If you are running a supported macOS version, you probbably did not enable accessibility features for Controlly. Go to System Preferences > Security & Privacy > Accessibility, then click on the locker on the bottom left of the window and enable Controlly's checkbox.
+You probbably did not enable accessibility features for Controlly. Go to System Preferences > Security & Privacy > Accessibility, then click on the locker on the bottom left of the window and enable Controlly's checkbox.
 
 <!-- #### Mac shows an error when trying to open the .dmg installer
 
@@ -71,6 +60,12 @@ I understand that this is not an ideal solution, but to truly solve this problem
 #### How to make Controlly launch on Mac startup
 
 Go to System Preferences > Users & Groups > Login Items, then click on "+" and select Controlly.
+
+<br/>
+
+## Compatibility Notice
+
+Controlly requires macOS Big Sur and compatibility with newer macOS versions cannot be guaranteed.
 
 <br/>
 
